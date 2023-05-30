@@ -16,4 +16,4 @@ I'm a highly motivated full-stack developer with a specialization in front-end w
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxtjs,angular,svelte,redux,jquery,electron,nodejs,expressjs,nestjs,laravel,ruby,django,spring,mysql,mongodb,postgres,sqlite,apollo,c,cs,cpp,html,css,js,ts,py,php,java,bootstrap,materialui,sass,svg,tailwind,ae,ps,figma,unity">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxtjs,angular,redux,jquery,electron,nodejs,expressjs,laravel,ruby,django,mysql,mongodb,sqlite,c,cs,cpp,html,css,js,ts,py,php,java,bootstrap,materialui,sass,svg,tailwind,ps,figma">
