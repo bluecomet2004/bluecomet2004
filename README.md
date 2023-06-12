@@ -3,13 +3,11 @@
 #### Pronouns: he/him 
 
 <br />
-<br />
 
 ## Introduction
 <p>
 Highly skilled Full Stack Developer with one year of experience in building dynamic and interactive web applications. Proficient in front-end technologies such as HTML, CSS, JavaScript and back-end technologies such as Node.js and PHP. Strong knowledge of databases, frameworks, and tools for seamless development and deployment of web applications. Ability to work in both individual and team environments while ensuring the timely delivery of quality work. Proven ability to take on challenging projects and deliver exceptional results. Looking for new opportunities to further develop skills and contribute to the growth of innovative companies.
 </p>
-<br />
 <br />
 
 ## Skills
