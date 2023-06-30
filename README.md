@@ -28,3 +28,7 @@
 <br />
 
 <img src="https://skillicons.dev/icons?i=html,svg,ps,figma,css,sass,bootstrap,materialui,tailwind,js,ts,jquery,threejs,react,redux,next,gatsby,vue,vite,nuxt,angular,electron,wordpress,jest,docker,vercel,netlify,aws,git,c,cs,cpp,ruby,java,php,laravel,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="96" />
+</p>
