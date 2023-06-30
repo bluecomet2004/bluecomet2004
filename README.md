@@ -1,17 +1,25 @@
-# Greetings!
-## 💻 I'm a Full Stack Developer. 💻
-#### Pronouns: he/him
+<h1 style="font-weight:bold;text-align:center">
+💻 Full Stack Developer 💻
+</h1>
 
-<br />
-<div style="text-align:center"><img src="banner.jpg" /></div>
-<br />
+<div style="display:flex;justify-content:space-between;align-items:center">
+<a href="https://github.com/bluecomet2004?tab=stars" style="margin-right:24px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bluecomet2004&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="BLUECOMET's github-readme-streak-stats"/>
+</a>
+<img src="cfh.gif" width="191" height="240" />
+</div>
 
-## Introduction
-<p>
-Highly skilled Full Stack Developer with 3 years of professional experience in building dynamic and interactive web applications. Proficient in front-end technologies such as React, Vue, Angluar and back-end technologies such as Node.js and Django and Laravel. Strong knowledge of databases, frameworks, and tools for seamless development and deployment of web applications. Ability to work in both individual and team environments while ensuring the timely delivery of quality work. Proven ability to take on challenging projects and deliver exceptional results. Looking for opportunities to further develop skills and contribute to the growth of innovative companies.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bluecomet2004&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
+
 <br />
 
-## Skills
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=bluecomet2004&column=8&no-frame=true"/> 
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,svg,ps,figma,css,sass,bootstrap,materialui,tailwind,js,ts,jquery,threejs,react,redux,next,gatsby,vue,vite,nuxt,angular,electron,wordpress,c,cs,cpp,ruby,java,php,laravel,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman">
+<br />
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,svg,ps,figma,css,sass,bootstrap,materialui,tailwind,js,ts,jquery,threejs,react,redux,next,gatsby,vue,vite,nuxt,angular,electron,wordpress,jest,docker,vercel,netlify,aws,git,c,cs,cpp,ruby,java,php,laravel,nodejs,express,py,django,mysql,sqlite,mongodb,postgresql,postman">
