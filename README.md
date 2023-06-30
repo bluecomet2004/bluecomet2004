@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/bluecomet2004?tab=stars">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bluecomet2004&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="BLUECOMET's github-readme-streak-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bluecomet2004&theme=ambient-gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="BLUECOMET's github-readme-streak-stats"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
