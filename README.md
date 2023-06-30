@@ -17,12 +17,13 @@
 </p>
 
 <br />
+<br />
+<br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=1200 src="https://github-profile-trophy.vercel.app/?username=bluecomet2004&column=8&no-frame=true"/> 
 </a>
 
-<br />
 <br />
 <br />
 
