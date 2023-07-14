@@ -1,4 +1,4 @@
-<h1 align="center"><b>💼 Web Developer 💼</b></h1>
+<h1 align="center"><b>🧿 Web Developer 🌠</b></h1>
 <br />
 
 <div align="center">
